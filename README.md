@@ -100,8 +100,8 @@ plt.show()
 
 ```
 ## Output:
-<img width="1471" height="994" alt="image" src="https://github.com/user-attachments/assets/800a2e3f-f731-4516-a354-1a579ec0314a" />
-<img width="472" height="353" alt="image" src="https://github.com/user-attachments/assets/57a55f4d-553b-4fdf-ba32-6a688745d4c9" />
+<img width="913" height="832" alt="image" src="https://github.com/user-attachments/assets/083f6246-8b7d-4248-aa05-79300b01f7b3" />
+
 
 
 
